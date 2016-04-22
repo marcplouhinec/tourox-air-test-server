@@ -51,7 +51,7 @@ Testing guide
 In order to test Tourox Air we need two devices: the smartphone/tablet with Tourox Air installed on it and another device
 (computer or smartphone) with a SIP client installed on it (for Android we recommend
 [CSipSimple](https://play.google.com/store/apps/details?id=com.csipsimple&hl=fr), for iOS
-we recommend [Join](https://itunes.apple.com/us/app/join-softphone-voip-sip-client/id566525840?mt=8).
+we recommend [Join](https://itunes.apple.com/us/app/join-softphone-voip-sip-client/id566525840?mt=8)).
 
 The first step is to configure the device with a SIP client:
 * Connect the device via WIFI to the router you just configured, with a dynamic IP address;
